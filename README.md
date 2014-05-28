@@ -1,4 +1,0 @@
-config
-======
-
-Awesome Config
